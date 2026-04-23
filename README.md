@@ -1,4 +1,22 @@
-# 🏷️ High-Performance Next.js Parallax Web Experience
+<div align="center">
+  <img 
+    src="assets/Next.js 3D Parallax Web Experience Engine.png" 
+    alt="Next.js 3D Parallax Web Experience Engine Logo Animation"
+    width="100%"
+  />
+
+  <h1 style="font-size: 3em; font-weight: 800; margin: 0.4em 0 0;">
+    Next.js 3D Parallax Web Experience Engine 
+  </h1>
+
+  <h3 style="margin-top: 0.6em;">
+    Scroll-Driven Immersion. Cinematic UI. High-Performance Web Intelligence. 
+  </h3>
+
+  <p>
+    <em>A production-grade, cinematic 3D web experience engine engineered to transform scrolling into immersive storytelling. Built with Next.js App Router, React 19, and TypeScript, it delivers ultra-smooth, frame-perfect parallax interactions powered by a 200-frame optimized WebP pipeline.  </em>
+  </p>
+</div>
 
 ## 🧾 Executive Summary
 This project documents the successful modernization of the Olipop brand website into a Next.js 16 application. The project achieved all core objectives, including the implementation of a complex 200-frame scroll-driven parallax animation system, seamless variant switching logic with state management, and a highly responsive component-based architecture. The new system leverages React 19, TypeScript for reliability, and Tailwind CSS v4 for modern styling, delivering a premium, interactive user experience that maintains the original design's aesthetic fidelity while significantly improving maintainability and scalability.
